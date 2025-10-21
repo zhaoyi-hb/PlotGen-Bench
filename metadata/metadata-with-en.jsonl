@@ -1,0 +1,675 @@
+{"filename": "1.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "2.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "3.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "4.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "5.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "6.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "7.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "8.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "9.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "10.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "11.png", "instruct": "Please use python to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "12.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "13.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "14.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "15.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "16.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "17.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "18.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "19.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "20.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "21.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "22.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "23.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "24.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "25.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "26.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "27.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "28.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "29.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "30.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "31.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "32.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "33.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "34.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "35.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "36.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "37.png", "instruct": "Please use python to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "38.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "39.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "40.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "41.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "42.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "43.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "44.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "45.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "46.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "47.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "48.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "49.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "50.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "51.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "52.png", "instruct": "Please use python to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "53.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "54.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "55.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "56.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "57.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "58.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "59.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "60.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "61.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "62.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "63.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "64.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "65.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "66.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "67.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "68.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "69.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "70.png", "instruct": "Please use python to generate this image.", "chart_type": "12-rader(雷达图)",  "chart_type_en": "Radar Chart"}
+{"filename": "71.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "72.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "73.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "74.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "75.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "76.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "77.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "78.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "79.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "80.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "81.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "82.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "83.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "84.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "85.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "86.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "87.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "88.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "89.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "90.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "91.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "92.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "93.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "94.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "95.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "96.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "97.png", "instruct": "Please use python to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "98.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "99.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "100.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "101.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "102.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "103.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "104.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "105.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "106.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "107.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "108.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "109.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "110.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "111.png", "instruct": "Please use python to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "112.png", "instruct": "Please use python to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "113.png", "instruct": "Please use python to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "114.png", "instruct": "Please use python to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "115.png", "instruct": "Please use python to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "116.png", "instruct": "Please use python to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "117.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "118.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "119.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "120.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "121.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "122.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "123.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "124.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "125.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "126.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "127.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "128.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "129.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "130.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "131.png", "instruct": "Please use python to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "132.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "133.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "134.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "135.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "136.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "137.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "138.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "139.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "140.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "141.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "142.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "143.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "144.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "145.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "146.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "147.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "148.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "149.png", "instruct": "Please use python to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "150.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "151.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "152.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "153.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "154.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "155.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "156.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "157.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "158.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "159.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "160.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "161.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "162.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "163.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "164.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "165.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "166.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "167.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "168.png", "instruct": "Please use python to generate this image.", "chart_type": "18-quiver(矢量场图)",  "chart_type_en": "Quiver Plot"}
+{"filename": "169.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "170.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "171.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "172.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "173.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "174.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "175.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "176.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "177.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "178.png", "instruct": "Please use python to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "179.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "180.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "181.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "182.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "183.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "184.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "185.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "186.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "187.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "188.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "189.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "190.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "191.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "192.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "193.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "194.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "195.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "196.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "197.png", "instruct": "Please use python to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "198.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "199.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "200.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "201.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "202.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "203.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "204.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "205.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "206.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "207.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "208.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "209.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "210.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "211.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "212.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "213.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "214.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "215.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "216.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "217.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "218.png", "instruct": "Please use python to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "219.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "220.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "221.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "222.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "223.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "224.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "225.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "226.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "227.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "228.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "229.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "230.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "231.png", "instruct": "Please use python to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "232.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "233.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "234.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "235.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "236.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "237.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "238.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "239.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "240.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "241.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "242.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "243.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "244.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "245.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "246.png", "instruct": "Please use python to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "247.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "248.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "249.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "250.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "251.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "252.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "253.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "254.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "255.png", "instruct": "Please use python to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "256.png", "instruct": "Please use python to generate this image.", "chart_type": "24-象限图",  "chart_type_en": "Quadrant Chart"}
+{"filename": "257.png", "instruct": "Please use python to generate this image.", "chart_type": "24-象限图",  "chart_type_en": "Quadrant Chart"}
+{"filename": "258.png", "instruct": "Please use python to generate this image.", "chart_type": "24-象限图",  "chart_type_en": "Quadrant Chart"}
+{"filename": "259.png", "instruct": "Please use python to generate this image.", "chart_type": "24-象限图",  "chart_type_en": "Quadrant Chart"}
+{"filename": "260.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "261.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "262.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "263.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "264.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "265.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "266.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "267.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "268.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "269.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "270.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "271.png", "instruct": "Please use python to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "272.png", "instruct": "Please use python to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "273.png", "instruct": "Please use python to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "274.png", "instruct": "Please use python to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "275.png", "instruct": "Please use python to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "276.png", "instruct": "Please use python to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "277.png", "instruct": "Please use python to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "278.png", "instruct": "Please use python to generate this image.", "chart_type": "27-桑基图(SankeyDiagram)",  "chart_type_en": "Sankey Diagram"}
+{"filename": "279.png", "instruct": "Please use python to generate this image.", "chart_type": "28-动图",  "chart_type_en": "Animated Chart"}
+{"filename": "280.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "281.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "282.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "283.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "284.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "285.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "286.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "287.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "288.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "289.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "290.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "291.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "292.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "293.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "294.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "295.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "296.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "297.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "298.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "299.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "300.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "301.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "302.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "303.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "304.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "305.png", "instruct": "Please use python to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "306.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "307.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "308.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "309.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "310.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "311.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "312.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "313.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "314.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "315.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "316.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "317.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "318.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "319.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "320.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "321.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "322.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "323.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "324.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "325.png", "instruct": "Please use python to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "326.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "327.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "328.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "329.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "330.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "331.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "332.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "333.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "334.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "335.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "336.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "337.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "338.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "339.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "340.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "341.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "342.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "343.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "344.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "345.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "346.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "347.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "348.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "349.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "350.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "351.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "352.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "353.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "354.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "355.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "356.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "357.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "358.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "359.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "360.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "361.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "362.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "363.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "364.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "365.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "366.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "367.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "368.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "369.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "370.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "371.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "372.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "373.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "374.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "375.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "376.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "377.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "378.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "379.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "380.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "381.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "382.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "383.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "384.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "385.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "386.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "387.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "388.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "389.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "390.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "391.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "392.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "393.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "394.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "395.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "396.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "397.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "398.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "399.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "400.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "401.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "402.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "403.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "404.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "405.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "406.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "407.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "408.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "409.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "410.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "411.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "412.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "413.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "414.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "415.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "416.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "417.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "418.png", "instruct": "Please use python to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "419.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "420.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "421.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "422.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "423.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "424.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "425.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "426.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "427.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "428.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "429.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "430.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "431.png", "instruct": "Please use python to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "432.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "433.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "434.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "435.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "436.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "437.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "438.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "439.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "440.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "441.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "442.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "443.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "444.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "445.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "446.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "447.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "448.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "449.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "450.png", "instruct": "Please use python to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "451.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "452.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "453.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "454.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "455.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "456.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "457.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "458.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "459.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "460.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "461.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "462.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "463.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "464.png", "instruct": "Please use python to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "465.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "466.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "467.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "468.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "469.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "470.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "471.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "472.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "473.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "474.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "475.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "476.png", "instruct": "Please use python to generate this image.", "chart_type": "8-蜡烛图",  "chart_type_en": "Candlestick Chart"}
+{"filename": "477.png", "instruct": "Please use python to generate this image.", "chart_type": "9-漏斗图",  "chart_type_en": "Funnel Chart"}
+{"filename": "478.png", "instruct": "Please use python to generate this image.", "chart_type": "9-漏斗图",  "chart_type_en": "Funnel Chart"}
+{"filename": "479.png", "instruct": "Please use plotly to generate this image.", "chart_type": "9-漏斗图",  "chart_type_en": "Funnel Chart"}
+{"filename": "480.png", "instruct": "Please use plotly to generate this image.", "chart_type": "9-漏斗图",  "chart_type_en": "Funnel Chart"}
+{"filename": "481.png", "instruct": "Please use plotly to generate this image.", "chart_type": "9-漏斗图",  "chart_type_en": "Funnel Chart"}
+{"filename": "482.png", "instruct": "Please use python to generate this image.", "chart_type": "9-漏斗图",  "chart_type_en": "Funnel Chart"}
+{"filename": "483.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "484.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "485.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "486.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "487.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "488.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "489.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "490.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "491.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "492.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "493.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "494.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "495.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "496.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "497.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "498.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "499.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "500.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "501.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "502.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "503.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "504.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "505.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "506.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "507.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "508.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "509.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "510.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "511.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "512.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "513.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "514.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "515.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "516.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "517.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "518.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "519.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "520.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "521.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "522.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "523.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "524.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "525.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "526.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "527.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "528.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "529.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "530.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "531.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "532.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "533.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "534.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "535.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "536.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "537.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "538.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "539.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "540.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "541.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "542.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "543.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "544.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "545.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "546.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "547.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "548.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "549.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "550.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "551.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "552.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "553.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "554.png", "instruct": "Please use networkx to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "555.png", "instruct": "Please use networkx to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "556.png", "instruct": "Please use networkx to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "557.png", "instruct": "Please use networkx to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "558.png", "instruct": "Please use networkx to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "559.png", "instruct": "Please use networkx to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "560.png", "instruct": "Please use networkx to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "561.png", "instruct": "Please use networkx to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "562.png", "instruct": "Please use networkx to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "563.png", "instruct": "Please use matplotlib to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "564.png", "instruct": "Please use networkx to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "565.png", "instruct": "Please use plotly to generate this image.", "chart_type": "1-pie (饼图)",  "chart_type_en": "Pie Chart"}
+{"filename": "566.png", "instruct": "Please use plotly to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "567.png", "instruct": "Please use plotly to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "568.png", "instruct": "Please use plotly to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "569.png", "instruct": "Please use plotly to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "570.png", "instruct": "Please use plotly to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "571.png", "instruct": "Please use plotly to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "572.png", "instruct": "Please use plotly to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "573.png", "instruct": "Please use plotly to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "574.png", "instruct": "Please use plotly to generate this image.", "chart_type": "13-ring(环形图)",  "chart_type_en": "Donut Chart"}
+{"filename": "575.png", "instruct": "Please use plotly to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "576.png", "instruct": "Please use plotly to generate this image.", "chart_type": "14-rose(南丁格尔玫瑰图)",  "chart_type_en": "Nightingale Rose Chart"}
+{"filename": "577.png", "instruct": "Please use plotly to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "578.png", "instruct": "Please use plotly to generate this image.", "chart_type": "15-treemap(树状图)",  "chart_type_en": "Treemap"}
+{"filename": "579.png", "instruct": "Please use plotly to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "580.png", "instruct": "Please use plotly to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "581.png", "instruct": "Please use plotly to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "582.png", "instruct": "Please use plotly to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "583.png", "instruct": "Please use plotly to generate this image.", "chart_type": "21-误差棒图",  "chart_type_en": "Error Bar Chart"}
+{"filename": "584.png", "instruct": "Please use plotly to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "585.png", "instruct": "Please use plotly to generate this image.", "chart_type": "25-甘特图(GanttChart)",  "chart_type_en": "Gantt Chart"}
+{"filename": "586.png", "instruct": "Please use plotly to generate this image.", "chart_type": "26-极坐标图(PolarPlot)",  "chart_type_en": "Polar Plot"}
+{"filename": "587.png", "instruct": "Please use plotly to generate this image.", "chart_type": "27-桑基图(SankeyDiagram)",  "chart_type_en": "Sankey Diagram"}
+{"filename": "588.png", "instruct": "Please use plotly to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "589.png", "instruct": "Please use plotly to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "590.png", "instruct": "Please use plotly to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "591.png", "instruct": "Please use plotly to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "592.png", "instruct": "Please use plotly to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "593.png", "instruct": "Please use plotly to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "594.png", "instruct": "Please use plotly to generate this image.", "chart_type": "4-3D图 - 扩展",  "chart_type_en": "3D Chart"}
+{"filename": "595.png", "instruct": "Please use plotly to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "596.png", "instruct": "Please use plotly to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "597.png", "instruct": "Please use plotly to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "598.png", "instruct": "Please use plotly to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "599.png", "instruct": "Please use plotly to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "600.png", "instruct": "Please use plotly to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "601.png", "instruct": "Please use plotly to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "602.png", "instruct": "Please use plotly to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "603.png", "instruct": "Please use plotly to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "604.png", "instruct": "Please use plotly to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "605.png", "instruct": "Please use plotly to generate this image.", "chart_type": "三元图",  "chart_type_en": "Ternary Plot"}
+{"filename": "606.png", "instruct": "Please use plotly to generate this image.", "chart_type": "三元图",  "chart_type_en": "Ternary Plot"}
+{"filename": "607.png", "instruct": "Please use plotly to generate this image.", "chart_type": "三元图",  "chart_type_en": "Ternary Plot"}
+{"filename": "608.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "609.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "610.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "611.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "612.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "613.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "614.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "19-inset(内嵌图)",  "chart_type_en": "Inset Plot"}
+{"filename": "615.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "616.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "617.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "618.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "619.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "27-桑基图(SankeyDiagram)",  "chart_type_en": "Sankey Diagram"}
+{"filename": "620.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "621.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "622.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "623.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "624.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "625.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "5-面积图",  "chart_type_en": "Area Chart"}
+{"filename": "626.png", "instruct": "Please use plotnine to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "627.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "628.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "629.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "630.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "631.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "632.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "633.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "10-热力图heatmap",  "chart_type_en": "Heatmap"}
+{"filename": "634.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "635.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "636.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "637.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "638.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "11-multi-axes(多坐标轴图)",  "chart_type_en": "Multi-Axes Chart"}
+{"filename": "639.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "640.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "641.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "642.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "16-小提琴图",  "chart_type_en": "Violin Plot"}
+{"filename": "643.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "644.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "645.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "646.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "647.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "648.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "649.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "650.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "651.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "17-scatter(散点图)",  "chart_type_en": "Scatter Plot"}
+{"filename": "652.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "653.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "654.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "655.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "656.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "657.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "658.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "659.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "660.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "2-line(折线图)",  "chart_type_en": "Line Chart"}
+{"filename": "661.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "662.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "20-直方图",  "chart_type_en": "Histogram"}
+{"filename": "663.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "664.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "22-density(密度图)",  "chart_type_en": "Density Plot"}
+{"filename": "665.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "666.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "23-Contour Plot(等高线图)",  "chart_type_en": "Contour Plot"}
+{"filename": "667.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "668.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "29-组合图",  "chart_type_en": "Combo Chart"}
+{"filename": "669.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "670.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "671.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "3-柱状图",  "chart_type_en": "Bar Chart"}
+{"filename": "672.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "673.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "6-箱线图",  "chart_type_en": "Box Plot"}
+{"filename": "674.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}
+{"filename": "675.png", "instruct": "Please use seaborn to generate this image.", "chart_type": "7-气泡图",  "chart_type_en": "Bubble Chart"}

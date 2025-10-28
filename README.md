@@ -84,7 +84,6 @@ curl -X GET \
 Example script for `gpt-4-vision-preview` on the `Direct Mimic` task:
 
 ```shell
-export PROJECT_PATH=${YOUR_PROJECT_PATH}
 
 # Step 1: generate code
 bash scripts/static_replication/run_generation.sh

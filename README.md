@@ -143,6 +143,3 @@ If you find this repository useful, please consider giving star and citing our p
 
 The PlotGen data and codebase is licensed under a [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
-## 🎙️ Acknowledgements
-
-We would like to express our gratitude to [agentboard](https://github.com/hkust-nlp/AgentBoard) for their project codebase.

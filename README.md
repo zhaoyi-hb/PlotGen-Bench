@@ -57,12 +57,12 @@ Here we provide a quick start guide to evaluate VLMS on PlotGen-Benchmark.
 conda env create -f environment.yaml
 conda activate plotgen
 ```
-
+<!-- 
 Set up the environment variables.
 
 ```shell
 
-```
+``` -->
 
 ### Download Data
 
